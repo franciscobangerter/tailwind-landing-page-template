@@ -79,7 +79,7 @@ export default function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay={300}
               >
-                Creamos sitios webs que convierten
+                Estamos listos para crear el próximo sitio web de tu negocio. Diferente, impactante y que convierta. Con una visión en marketing y tecnología.
               </p>
               <div className="relative before:absolute before:inset-0 before:border-y before:[border-image:linear-gradient(to_right,transparent,theme(colors.slate.300/.8),transparent)1]">
                 <div
@@ -92,7 +92,7 @@ export default function HeroHome() {
                     href="#0"
                   >
                     <span className="relative inline-flex items-center">
-                      Start Free Trial{" "}
+                      ¡Trabajemos juntos!{" "}
                       <span className="ml-1 tracking-normal text-blue-300 transition-transform group-hover:translate-x-0.5">
                         -&gt;
                       </span>
@@ -102,7 +102,7 @@ export default function HeroHome() {
                     className="btn w-full bg-white text-gray-800 shadow hover:bg-gray-50 sm:ml-4 sm:w-auto"
                     href="#0"
                   >
-                    Learn More
+                    Conocer más
                   </a>
                 </div>
               </div>
